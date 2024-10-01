@@ -1,0 +1,15 @@
+.input {
+  margin: 10% 0 0 34%;
+}
+.input h1 {
+  margin-left: 28px;
+}
+.options {
+  margin-left: 33%;
+}
+.options input {
+  margin-left: 8px;
+}
+input:focus {
+  outline-style: none;
+}
